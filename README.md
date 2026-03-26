@@ -9,7 +9,7 @@ Click anywhere on the map → fill in the details → your workout is pinned.
 
 ## 🚀 Live Demo
 
-> _(add your GitHub Pages / Netlify link here)_
+(https://belevtsov91.github.io/mapty-workout-tracker/)
 
 ---
 
